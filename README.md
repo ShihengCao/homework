@@ -5,7 +5,7 @@ go to summary： [SUMMARY.md](C:/Users/shihe/Documents/git/SUMMARY.md)
 
 2 an image that is a file in the directory.
 
-![JLU](./jlu.jpg)
+<img src="./jlu.jpg" width="200" height="150">
 
 3 an image that is located on the web (not a file inthedirectory). 
 
